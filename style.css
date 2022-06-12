@@ -1,0 +1,70 @@
+body{
+    font-family: 'Montserrat';
+    text-align: center;
+}
+/* background */
+.background-size{
+    background-size:1900px;
+    width: 1530px;
+    height: 700px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+/* navbar */
+/* .navbar-heading{
+    margin-top: 100px;
+} */
+.container{
+    margin-top: 30px;
+   
+}
+#navbar1{
+    position:sticky;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.navbar-nav > li{
+     padding-left: 30px;
+     padding-right: 2px;
+   
+}
+.nav-link{
+    align-items: right;
+}
+.login-button{
+    background: rgba(255, 0, 0, 0.657);
+    color: #fff;
+    padding: 10px 50px ;
+    display: inline-block;
+    position: relative;
+    
+}
+/* title */
+.big-heading{
+    align-content: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color: black;
+    position:relative;
+   
+}
+.form-content{
+    margin-left: 170px;
+    margin-bottom: 170px;
+    align-content: center;
+}
+.signup-btn{
+    background-color: rgba(255, 0, 0, 0.667);
+    color: white;
+}
+
+/* tutorials library */
+.content{
+    margin-top:10% ;
+    background-color: rgb(149, 157, 156);
+}
+
